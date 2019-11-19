@@ -12,7 +12,7 @@ Have a look at the details of the fingerprinting.
 
 ![Fingerprint Details](./images/fingerprint-details.png)
 
-Install the Copy Artifacts plugin.
+Install the Copy Artifacts plugin from the Plugin Manager page.
 
 ![Copy Artifacts Plugin](./images/copy-artifacts-plugin.png)
 

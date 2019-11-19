@@ -16,7 +16,7 @@ The trend changes accordingly.
 
 ![Changed Test Result Trend](./images/all-test-result-trend.png)
 
-Install the JaCoCo plugin.
+Install the JaCoCo plugin from the Plugin Manager page.
 
 ![JaCoCo Plugin](./images/jacoco-plugin.png)
 

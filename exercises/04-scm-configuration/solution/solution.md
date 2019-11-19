@@ -8,7 +8,7 @@ Configure the Git SCM and point the proper URL. The default is the `master` bran
 
 ![Git SCM](./images/git-scm.png)
 
-Create the Gradle build step.
+Create the Gradle build step. Ensure to select the "Use Gradle Wrapper" option.
 
 ![Git SCM](./images/gradle-build-step.png)
 
@@ -68,4 +68,4 @@ Build step 'Invoke Gradle script' changed build result to SUCCESS
 Finished: SUCCESS
 ```
 
-As a side note: The GitHub plugin is [currently broken](https://issues.jenkins-ci.org/browse/JENKINS-11337) if you wanted to build multiple branches with a single job. You will have to model it as a multi-branch pipeline job.
+**As a side note:** The GitHub plugin is [currently broken](https://issues.jenkins-ci.org/browse/JENKINS-11337) if you wanted to build multiple branches with a single job. You will have to model it as a multi-branch pipeline job.

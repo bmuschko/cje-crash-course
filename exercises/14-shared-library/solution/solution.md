@@ -13,7 +13,7 @@ The directory structure of shared library repository should have the following s
 Define the pipeline as global variable in the file `standard.groovy`.
 
 ```groovy
-def call(String goToolName = 'go-1.12', String golangCiVersion = 'v1.12.5') {
+def call(String goToolName = 'go-1.12', String golangCiVersion = 'v1.18.0') {
     pipeline {
         agent any
         tools {
@@ -29,9 +29,6 @@ def call(String goToolName = 'go-1.12', String golangCiVersion = 'v1.12.5') {
                 }
             }
             stage('Test') {
-                environment {
-                    CODECOV_TOKEN = credentials('CODECOV_TOKEN')
-                }
                 steps {
                     sh 'go test ./... -coverprofile=coverage.txt'
                     sh "curl -s https://codecov.io/bash | bash -s -"
