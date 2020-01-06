@@ -2,6 +2,8 @@
 
 This exercise will demonstrate the use of a Google Chat room as way to send a notification upon a failed build. Given the locked down nature of Google Chat, this exercise will only be demonstrated by the instructor.
 
+**This exercise will only be demonstrated on screen. You will be able to follow along if you have a [G Suite account](https://gsuite.google.com/products/chat/).**
+
 ## Notifying the Team Upon a Broken Build
 
 1. Change the list of Gradle tasks to `doesnotexist` to emulate a failure. The build will fail as the task doesn't exist in the build script.

@@ -9,4 +9,7 @@ Excercise will require the tooling listed below. Ensure that all of those tools 
 * A free [account on GitHub](https://github.com/) (optional, but recommended so you can pursue the exercises that use GitHub as a source code repository)
 * Install [JDK 8 or higher](https://www.oracle.com/technetwork/java/javase/downloads/index.html) (optional, but recommended so you can pursue the Java-based exercises)
 * Install [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) (optional, but recommended so you can pursue the distributed builds exercise)
-* Some of the later exercises will ask you create an account on external services e.g. Heroku or CodeCov. All of those services provide a free tier.
+* Some of the later exercises will ask you create an account on external services e.g. Heroku or CodeCov. All of those services provide a free tier. Please set up the following accounts if you want to follow along:
+    * [SonarCloud](https://sonarcloud.io/)
+    * [Heroku](https://www.heroku.com/)
+    * [CodeCov](https://codecov.io/)
