@@ -11,3 +11,11 @@ All exercises in this repository practice a self-contained portion of the [CJE c
 ## Exercises
 
 All [exercises](./exercises) are numbered and live in dedicated directories starting with the name `exercise-`. You'll find instructions for each exercise in each folder. Solutions are available in the `solution` folder. Try to solve each exercise yourself before having a look at the solution.
+
+## Additional Resources
+
+* [CloudBees certification information](https://www.cloudbees.com/jenkins/certification)
+* [Certified Jenkins Engineer (CJE) 2018 study guide](https://www.previous.cloudbees.com/sites/default/files/cje-study-guide-2018.pdf)
+* [CJE video training by CloudBees University](https://standard.cbu.cloudbees.com/series/certified-jenkins-engineer-exam-prep)
+* [CJE video training and practice test by Linux Academy](https://linuxacademy.com/course/learn-jenkins-by-doing/)
+* [Best practices for writing Jenkins shared libraries](https://bmuschko.com/blog/jenkins-shared-libraries/)
