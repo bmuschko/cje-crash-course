@@ -6,5 +6,5 @@ In this exercise, you will create a new job that pulls the source code from a [r
 
 1. Create a new freestyle job named `gradle-initializr`.
 2. Configure Git as the SCM and use the repository URL `https://github.com/bmuschko/gradle-initializr.git`. Only build from the branch `master`.
-3. Add a build step to run the Gradle command `clean build` using the Wrapper.
+3. Add a build step "Invoke Gradle script" to run the Gradle command `clean build` using the Wrapper.
 4. Trigger a build and look at the output.
