@@ -14,8 +14,8 @@ All [exercises](./exercises) are numbered and live in dedicated directories star
 
 ## Additional Resources
 
-* 📄 [CloudBees: Certification information](https://www.cloudbees.com/jenkins/certification)
-* 📄 [CloudBees: CJE learning path](https://university.cloudbees.com/path/certified-jenkins-engineer-cje-exam-preparation)
+* 💡 [CloudBees: Certification information](https://www.cloudbees.com/jenkins/certification)
+* 📚 [CloudBees: CJE learning path](https://university.cloudbees.com/path/certified-jenkins-engineer-cje-exam-preparation)
 * 🎞️ [A Cloud Guru: Certified Jenkins Engineer](https://learn.acloud.guru/course/f2956e4d-87f1-4f26-b4db-ffb8e01a1afb)
 * ✍🏻 [Benjamin Muschko: Best practices for writing Jenkins shared libraries](https://bmuschko.com/blog/jenkins-shared-libraries/)
 * ✍🏻 [Benjamin Muschko: Step by step instructions on how to use the Jenkins Kubernetes plugin for different use cases](https://github.com/bmuschko/jenkins-with-kubernetes)
