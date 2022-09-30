@@ -5,7 +5,7 @@ This exercise explores the use of the REST API to trigger a build for an existin
 ## Using the REST API for Common Operations
 
 1. Create a new user named `buildbot`.
-2. Add adminstration permissions for the user.
+2. Add administration permissions for the user.
 3. Log in with user `buildbot`.
 4. Generate the API token for the user.
 5. Generate a Jenkins crumb from the command line.
