@@ -23,7 +23,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", inline: <<-SHELL
     sudo add-apt-repository ppa:openjdk-r/ppa -y
     sudo apt-get update
-    sudo apt-get -y install openjdk-8-jdk
+    sudo apt-get -y install openjdk-11-jdk
     sudo update-alternatives --config java
     sudo apt-get -y install git
     sudo useradd -m jenkins
