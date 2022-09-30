@@ -18,6 +18,6 @@ All [exercises](./exercises) are numbered and live in dedicated directories star
 * 📚 [CloudBees: CJE learning path](https://university.cloudbees.com/path/certified-jenkins-engineer-cje-exam-preparation)
 * 📚 [Addison-Wesley: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 * 📚 [O'Reilly: Jenkins 2: Up and Running](https://learning.oreilly.com/library/view/jenkins-2-up/9781491979587/)
-* 🎞️ [A Cloud Guru: Certified Jenkins Engineer](https://learn.acloud.guru/course/f2956e4d-87f1-4f26-b4db-ffb8e01a1afb)
 * ✍🏻 [Benjamin Muschko: Best practices for writing Jenkins shared libraries](https://bmuschko.com/blog/jenkins-shared-libraries/)
 * ✍🏻 [Benjamin Muschko: Step by step instructions on how to use the Jenkins Kubernetes plugin for different use cases](https://github.com/bmuschko/jenkins-with-kubernetes)
+* 🎞️ [A Cloud Guru: Certified Jenkins Engineer](https://learn.acloud.guru/course/f2956e4d-87f1-4f26-b4db-ffb8e01a1afb)
