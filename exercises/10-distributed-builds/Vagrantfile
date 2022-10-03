@@ -28,8 +28,8 @@ Vagrant.configure("2") do |config|
     sudo apt-get -y install git
     sudo useradd -m jenkins
     echo "jenkins:jenkins" | sudo chpasswd
-    sudo keytool -importkeystore -srckeystore /etc/ssl/certs/java/cacerts -destkeystore /etc/ssl/certs/java/cacerts.jks -deststoretype JKS -srcstorepass changeit -deststorepass changeit -noprompt
-    sudo mv /etc/ssl/certs/java/cacerts.jks /etc/ssl/certs/java/cacerts
-    sudo /var/lib/dpkg/info/ca-certificates-java.postinst configure
+    sudo sed -i 's/pkcs12/jks/g' /etc/java-11-openjdk/security/java.security
+    sudo rm /etc/ssl/certs/java/cacerts
+    sudo update-ca-certificates -f
   SHELL
 end
