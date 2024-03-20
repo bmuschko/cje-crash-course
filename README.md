@@ -21,4 +21,4 @@ All [exercises](./exercises) are numbered and live in dedicated directories star
 * ✍🏻 [Benjamin Muschko: Best practices for writing Jenkins shared libraries](https://bmuschko.com/blog/jenkins-shared-libraries/)
 * ✍🏻 [Benjamin Muschko: Step by step instructions on how to use the Jenkins Kubernetes plugin for different use cases](https://github.com/bmuschko/jenkins-with-kubernetes)
 * 🎞️ [A Cloud Guru: Certified Jenkins Engineer](https://learn.acloud.guru/course/f2956e4d-87f1-4f26-b4db-ffb8e01a1afb)
-* 🧪 [Udemy: Certified Jenkins Engineer (CJE) Practice Exam 2022](https://www.udemy.com/course/certified-jenkins-engineer-practice-exam/)
+* 🧪 [Udemy: Certified Jenkins Engineer (CJE) Practice Exam](https://www.udemy.com/course/certified-jenkins-engineer-practice-exam/)
