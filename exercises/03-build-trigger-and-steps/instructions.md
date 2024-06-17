@@ -1,6 +1,6 @@
 # Exercise 3
 
-In this exercise, you will configure the job to build based on a cron definition. Moreover, you will create downstream job that should be built automatically if the upstream job is successful.
+In this exercise, you will configure the job to build based on a cron definition. Moreover, you will create a downstream job that should be built automatically if the upstream job is successful.
 
 ## Configuring Build Triggers and Steps for a Job
 
