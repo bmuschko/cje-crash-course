@@ -1,6 +1,6 @@
 # Solution
 
-Configure the `master` node.
+Configure the controller node.
 
 ![Master Configuration](./images/master-config.png)
 
@@ -8,7 +8,7 @@ Add a new agent node.
 
 ![Agent Configuration](./images/agent-config.png)
 
-You will see that the `master` node isn't even listed anymore in the executor overview.
+You will see that the controller node isn't even listed anymore in the executor overview.
 
 ![Node Overview](./images/node-overview.png)
 
