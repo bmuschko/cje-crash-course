@@ -2,7 +2,7 @@
 
 CloudBees, the company behind the automation server Jenkins, is a major player in the Continuous Integration and Continuous Delivery space. The [Certified Jenkins Engineer (CJE) certification](https://www.cloudbees.com/jenkins/jenkins-certification) was designed to verify your qualifications in configuring and managing Jenkins jobs, pipelines, and cluster environments. Whether you are a seasoned Jenkins user or someone who wants to deeply learn the most important aspects of Jenkins, then this course is for you.
 
-This practical course is designed to walk you through all the topics covered in the exam to fully prepare to pass the certification exam. The trainer and [CJE](https://certificates.cloudbees.com/cffaf81b-72c4-487b-9076-3718d70a80eb#gs.64d40y), Benjamin Muschko, will also share his personal experience with preparing for all aspects of the exam.
+This practical course is designed to walk you through all the topics covered in the exam to fully prepare to pass the certification exam. The trainer and [CJE](https://certificates.cloudbees.com/cd0e3338-9080-416b-aba2-3f75f9fe349f), Benjamin Muschko, will also share his personal experience with preparing for all aspects of the exam.
 
 ## Prerequisites
 
